@@ -1,4 +1,7 @@
 {
-  "primary": "https://example.com",
-  "associatedSites": ["https://bcodes.co.il"]
+  "primary": "https://poalim.xyz",
+  "associatedSites": ["https://poalim.site"],
+  "rationaleBySite": {
+    "https://poalim.site": "Each domain in this subset supports functionality or security needs."
+  }
 }
